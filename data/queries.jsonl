@@ -1,0 +1,30 @@
+﻿{"query_id":"q_01","query":"What are practical examples of feature engineering?","relevant_doc_ids":["doc_008","doc_018","doc_028","doc_038","doc_048","doc_058"],"query_type":"term_match"}
+{"query_id":"q_02","query":"How does reinforcement learning differ from clustering?","relevant_doc_ids":["doc_003","doc_006","doc_007","doc_013","doc_016","doc_017"],"query_type":"semantic"}
+{"query_id":"q_03","query":"How does feature engineering differ from unsupervised learning?","relevant_doc_ids":["doc_002","doc_003","doc_005","doc_006","doc_008","doc_011"],"query_type":"balanced"}
+{"query_id":"q_04","query":"Explain natural language processing in simple terms.","relevant_doc_ids":["doc_010","doc_020","doc_030","doc_040","doc_050","doc_060"],"query_type":"term_match"}
+{"query_id":"q_05","query":"When should you choose clustering over model evaluation?","relevant_doc_ids":["doc_007","doc_011","doc_015","doc_016","doc_017","doc_022"],"query_type":"semantic"}
+{"query_id":"q_06","query":"Which algorithm is best for natural language processing?","relevant_doc_ids":["doc_001","doc_002","doc_005","doc_009","doc_010","doc_012"],"query_type":"balanced"}
+{"query_id":"q_07","query":"What are practical examples of support vector machines?","relevant_doc_ids":["doc_006","doc_016","doc_026","doc_036","doc_046","doc_056"],"query_type":"term_match"}
+{"query_id":"q_08","query":"When should you choose feature engineering over support vector machines?","relevant_doc_ids":["doc_001","doc_003","doc_005","doc_006","doc_008","doc_015"],"query_type":"semantic"}
+{"query_id":"q_09","query":"What are practical examples of model evaluation?","relevant_doc_ids":["doc_002","doc_007","doc_009","doc_011","doc_015","doc_016"],"query_type":"balanced"}
+{"query_id":"q_10","query":"How does natural language processing differ from supervised learning?","relevant_doc_ids":["doc_010","doc_020","doc_030","doc_040","doc_050","doc_060"],"query_type":"term_match"}
+{"query_id":"q_11","query":"Which algorithm is best for decision trees?","relevant_doc_ids":["doc_002","doc_004","doc_005","doc_006","doc_008","doc_010"],"query_type":"semantic"}
+{"query_id":"q_12","query":"When should you choose supervised learning over natural language processing?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_005","doc_009","doc_010"],"query_type":"balanced"}
+{"query_id":"q_13","query":"Explain reinforcement learning in simple terms.","relevant_doc_ids":["doc_003","doc_013","doc_023","doc_033","doc_043","doc_053"],"query_type":"term_match"}
+{"query_id":"q_14","query":"Which algorithm is best for model evaluation?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_009","doc_014","doc_016"],"query_type":"semantic"}
+{"query_id":"q_15","query":"Explain support vector machines in simple terms.","relevant_doc_ids":["doc_004","doc_006","doc_007","doc_008","doc_011","doc_014"],"query_type":"balanced"}
+{"query_id":"q_16","query":"Which algorithm is best for unsupervised learning?","relevant_doc_ids":["doc_002","doc_012","doc_022","doc_032","doc_042","doc_052"],"query_type":"term_match"}
+{"query_id":"q_17","query":"Which algorithm is best for model evaluation?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_009","doc_014","doc_016"],"query_type":"semantic"}
+{"query_id":"q_18","query":"What are practical examples of reinforcement learning?","relevant_doc_ids":["doc_001","doc_003","doc_004","doc_006","doc_007","doc_012"],"query_type":"balanced"}
+{"query_id":"q_19","query":"What are practical examples of supervised learning?","relevant_doc_ids":["doc_001","doc_002","doc_011","doc_012","doc_021","doc_022"],"query_type":"term_match"}
+{"query_id":"q_20","query":"Explain clustering in simple terms.","relevant_doc_ids":["doc_007","doc_011","doc_015","doc_016","doc_017","doc_022"],"query_type":"semantic"}
+{"query_id":"q_21","query":"Explain reinforcement learning in simple terms.","relevant_doc_ids":["doc_001","doc_003","doc_004","doc_006","doc_007","doc_012"],"query_type":"balanced"}
+{"query_id":"q_22","query":"Explain feature engineering in simple terms.","relevant_doc_ids":["doc_008","doc_018","doc_028","doc_038","doc_048","doc_058"],"query_type":"term_match"}
+{"query_id":"q_23","query":"What are practical examples of model evaluation?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_009","doc_014","doc_016"],"query_type":"semantic"}
+{"query_id":"q_24","query":"Which algorithm is best for clustering?","relevant_doc_ids":["doc_005","doc_006","doc_007","doc_008","doc_011","doc_015"],"query_type":"balanced"}
+{"query_id":"q_25","query":"When should you choose clustering over model evaluation?","relevant_doc_ids":["doc_007","doc_017","doc_027","doc_037","doc_047","doc_057"],"query_type":"term_match"}
+{"query_id":"q_26","query":"How does neural networks differ from unsupervised learning?","relevant_doc_ids":["doc_001","doc_004","doc_012","doc_013","doc_014","doc_016"],"query_type":"semantic"}
+{"query_id":"q_27","query":"What are practical examples of unsupervised learning?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_011","doc_012","doc_019"],"query_type":"balanced"}
+{"query_id":"q_28","query":"How does feature engineering differ from model evaluation?","relevant_doc_ids":["doc_008","doc_018","doc_028","doc_038","doc_048","doc_058"],"query_type":"term_match"}
+{"query_id":"q_29","query":"Which algorithm is best for supervised learning?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_011","doc_012","doc_016"],"query_type":"semantic"}
+{"query_id":"q_30","query":"What are practical examples of neural networks?","relevant_doc_ids":["doc_001","doc_002","doc_003","doc_004","doc_011","doc_012"],"query_type":"balanced"}
